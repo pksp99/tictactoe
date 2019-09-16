@@ -1,0 +1,4 @@
+=>this code was built in Turbo C++ which you can download from internet
+=>add "svga.bgi" file to "bgi" folder in turbo c
+=>run final_cg.c in turbo c
+=>make sure to give correct path for graphics
